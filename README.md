@@ -105,5 +105,4 @@ I listen to a lot of music when coding, I like it that way YAAAAH!!
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
