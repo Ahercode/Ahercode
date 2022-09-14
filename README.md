@@ -1,4 +1,4 @@
-<h2 > Hey there 👋, My name is Philip L. Aherto!</h2>
+<h1 > Hey there 👋, My name is Philip L. Aherto!</h1>
 <p>A Junior Software Engineer based in Accra, Ghana</p>
 <p>Coding to me is a game and just like every other guy, I love gaming (coding). My passion for programming shows in the results I bring to the table.</p>
 <br/>
@@ -34,12 +34,12 @@
 
 <br/>  
 
-## My Skill Set  
+# My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+## Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -55,7 +55,7 @@
 
 
 
-### Backend  
+## Backend  
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -69,7 +69,7 @@
 
 
 
-### DevOps  
+## DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -85,13 +85,13 @@
 
 <br/>  
 
-## My Coding playlist 
+# My Coding playlist 
 I listen to a lot of music when coding, I like it that way YAAAAH!!
 <br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g3pww5bj4yd2t2wsr7w3uic6dq&cover_image=true&theme=default" /></div> 
 <br/>
 
-## Github Stats  
+# Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahercode&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
