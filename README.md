@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="100"/>
 </div>
   <div align="center">
- <img src="https://komarev.com/ghpvc/?username=SandraSarpong&style=flat-square&color=blue" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=Ahercode&style=flat-square&color=red" alt="Profile Views"/>
 </div>
 
 <div align="center">
@@ -25,11 +25,7 @@
    
   
 
-<br/>  
-
-<div align="center">
-<img src="https://github.com/Ahercode/Ahercode/blob/main/readme.jpg" align="center" style="width: 100%" />
-</div>  
+<br/>   
 
 
 </td></tr></table>  
