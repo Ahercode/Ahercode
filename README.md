@@ -75,7 +75,7 @@
 </td></tr></table>  
 
 <br/>  
-## My Coding playlist 
+### My Coding playlist 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g3pww5bj4yd2t2wsr7w3uic6dq&cover_image=true&theme=default" /></div> 
 <br/>
 
