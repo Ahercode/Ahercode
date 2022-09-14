@@ -1,6 +1,9 @@
 <h2 align="center"> Hey there, My name is Philip L. Aherto</h2>
-<p>A Junior Software Engineer based in Accra, Ghana</p>
-<p>Coding to me is a game and just like every other guy, I love gaming (coding). My passion for programming shows in the results I bring to the table.</p>
+<p align="center">A Junior Software Engineer based in Accra, Ghana</p>
+<p align="center">Coding to me is a game and just like every other guy, I love gaming (coding). My passion for programming shows in the results I bring to the table.</p>
+<br/>
+
+# Let's connect
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="350"/>
