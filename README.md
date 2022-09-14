@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="350"/>
 </div>
-  <div align="center">
- <img src="https://komarev.com/ghpvc/?username=Ahercode&style=flat-square&color=red" alt="Profile Views"/>
-</div>
+
 
 <div align="center">
 <a href="https://github.com/Ahercode" target="_blank">
@@ -21,6 +19,10 @@
 <a href="https://www.youtube.com/channel/UCOMbswSPCO6GLa-h-8HPAkw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+</div>
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=Ahercode&style=flat-square&color=red" alt="Profile Views"/>
 </div>
 
 <br/>  
@@ -76,6 +78,8 @@
 
 <br/>  
 ### My Coding playlist 
+I listen to a lot of music when coding, I like it that way YAAAAH!!
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g3pww5bj4yd2t2wsr7w3uic6dq&cover_image=true&theme=default" /></div> 
 <br/>
 
