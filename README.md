@@ -1,6 +1,6 @@
 <h1 > Hey there 👋, My name is Philip L. Aherto!</h1>
 <p>A Curious Software Engineer 🌚 based in Accra, Ghana</p>
-<p>Coding to me is a game and just like every other guy, I love gaming (coding). My passion for programming shows in the results I bring to the table.</p>
+<p>Coding is like a game to me, and just like any other enthusiast, I love it. My passion for programming is evident in the results I deliver.</p>
 <br/>
 
 # Let's connect
